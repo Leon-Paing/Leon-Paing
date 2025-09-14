@@ -15,13 +15,13 @@
 
 <div style="text-align: center; width: 100%; display: flex; align-items: center;">
 
-  <div style="display: flex; flex-direction: column; width: 300px; margin: 10px; align-items: center;">
-    <h5>✈️ Real-time drone monitoring & Live video stream 🎥</h5>
+  <div style="display: flex; flex-direction: column; width: 100%; margin: 10px; align-items: center;">
+    <h5 style="text-align: center; width: 100%;">✈️ Real-time drone monitoring & Live video stream 🎥</h5>
     <img src="./AiOcean.gif" alt="Drone Monitoring" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);">
   </div>
 
-  <div style="display: flex; flex-direction: column; width: 300px; margin: 10px; align-items: center;">
-    <h5>🚘 Car Showroom</h5>
+  <div style="display: flex; flex-direction: column; width: 100%; margin: 10px; align-items: center;">
+    <h5 style="text-align: center; width: 100%;">🚘 Car Showroom</h5>
     <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" alt="Car Showroom" style="width: 40%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);">
   </div>
 
