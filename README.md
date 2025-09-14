@@ -13,9 +13,10 @@
 
 ### Some Projects ⭐️
 <div style="display: flex; align: center;">
+  <img src="./assets/AiOcean.gif" width="500em" height="250em">
   <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" width="500em" height="250em">
   <img src="https://personal-portfolio-one-taupe.vercel.app/RunThrough.jpeg" width="500px" height="250em">
-  <img src="https://personal-portfolio-one-taupe.vercel.app/gonews.jpeg" width="350px" height="250em">
+  <img src="https://personal-portfolio-one-taupe.vercel.app/gonews.jpeg" width="500px" height="250em">
 </div>
 
 <p align="start">
