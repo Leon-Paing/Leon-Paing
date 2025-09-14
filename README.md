@@ -11,14 +11,13 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRmbjB2cTN5enZ3dm5jZDdiZTl3OGhtNDVsY2V0d3VxMGQ2cGd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50" height="50" alt="Python GIF">
 </p>
 
-<p align="center" text-align="center">
-  <h3>Here is my GitHub Streak 🔥</h3>
-</p>
-
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NkaWYxYjFpYTJkZ3NyZHkyb3E5b29kcmRjZHhzaXdmazdoOGJ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif">
-  <img src="https://streak-stats.demolab.com?user=Leon-Paing&theme=tokyonight&hide_border=false" height="180em" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NkaWYxYjFpYTJkZ3NyZHkyb3E5b29kcmRjZHhzaXdmazdoOGJ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif">
+  <h1>🔥 Here is my GitHub Streak 🔥</h1>
+  
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NkaWYxYjFpYTJkZ3NyZHkyb3E5b29kcmRjZHhzaXdmazdoOGJ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" height="180em" />
+    <img src="https://streak-stats.demolab.com?user=Leon-Paing&theme=tokyonight&hide_border=false" height="180em" />
+  </div>
 </div>
 
 <p align="start">
