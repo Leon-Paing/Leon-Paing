@@ -11,17 +11,17 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRmbjB2cTN5enZ3dm5jZDdiZTl3OGhtNDVsY2V0d3VxMGQ2cGd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50" height="50" alt="Python GIF">
 </p>
 
-### Some Projects ⭐️
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: wrap; text-align: center;">
+## Some Projects ⭐️
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; text-align: center;">
 
   <div style="flex: 0 0 auto; width: 410px;">
     <h5>✈️ Real-time drone monitoring & Live video stream 🎥</h5>
-    <img src="./AiOcean.gif" width="400px" height="250px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
+    <img src="./AiOcean.gif" width="600px" height="300px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
   </div>
 
   <div style="flex: 0 0 auto; width: 410px;">
     <h5>🚘 Car Showroom</h5>
-    <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" width="400px" height="250px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
+    <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" width="600px" height="300px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
   </div>
 
 </div>
