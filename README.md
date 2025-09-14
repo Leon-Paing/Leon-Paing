@@ -13,14 +13,14 @@
 
 ## Some Projects ⭐️
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: flex-start; gap: 10px; max-width: 100%;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 10px; max-width: 100%;">
 
-  <div style="flex: 1 1 48%; text-align: center; min-width: 0;">
+  <div style="flex: 1 1 40%; text-align: center; min-width: 0;">
     <h5>✈️ Real-time drone monitoring & Live video stream 🎥</h5>
     <img src="./AiOcean.gif" alt="Drone Monitoring" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);">
   </div>
 
-  <div style="flex: 1 1 48%; text-align: center; min-width: 0;">
+  <div style="flex: 1 1 40%; text-align: center; min-width: 0;">
     <h5>🚘 Car Showroom</h5>
     <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" alt="Car Showroom" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);">
   </div>
