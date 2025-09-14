@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  ### Here is my Github Streak 🔥
+  <h1>Here is my GitHub Streak 🔥</h1>
 </p>
 
 <div align="center">
