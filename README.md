@@ -15,7 +15,7 @@
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: wrap; text-align: center;">
 
   <div style="flex: 0 0 50%;">
-    <h5>✈️ Real-time drone monitoring & Live video stream 🎥</h5>
+    <h5 style="text-align: center;">✈️ Real-time drone monitoring & Live video stream 🎥</h5>
     <img src="./AiOcean.gif" width="400px" height="300px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
   </div>
 
