@@ -15,6 +15,7 @@
 
 <div align="start">
   <img src="https://streak-stats.demolab.com?user=Leon-Paing&theme=tokyonight&hide_border=false" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-Paing&layout=pie&theme=radical" height="180em" />
 </div>
 
 <p align="start">
