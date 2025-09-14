@@ -12,11 +12,7 @@
 </p>
 
 <div align="center">
-
-  <!-- Top Languages (Pie Chart) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-Paing&layout=pie&theme=tokyonight" height="180em" />
-
-  <!-- GitHub Streak -->
+  ### Here is my Github Streak
   <img src="https://streak-stats.demolab.com?user=Leon-Paing&theme=tokyonight&hide_border=false" height="180em" />
 </div>
 
