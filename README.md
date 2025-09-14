@@ -1,8 +1,8 @@
 ## Hi! It's me, Leon! 🦁
 
-```markdown
-A passionate Developer who focuses on real-time high-performance cloud-based solutions.
-```
+<p>
+  A passionate Developer who focuses on real-time high-performance cloud-based solutions.
+</p>
 
 ### Tech Stacks ✨
 
