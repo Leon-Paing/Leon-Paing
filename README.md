@@ -11,7 +11,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRmbjB2cTN5enZ3dm5jZDdiZTl3OGhtNDVsY2V0d3VxMGQ2cGd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50" height="50" alt="Python GIF">
 </p>
 
-## My Contributions
+## My Contributions 🏋🏻
 <p align="start">
   <img src="https://raw.githubusercontent.com/Leon-Paing/Leon-Paing/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light">
   <img src="https://raw.githubusercontent.com/Leon-Paing/Leon-Paing/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark">
