@@ -4,7 +4,7 @@
 
 #### Tech Stacks
 
-<p align="center">
+<p align="start">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g0NjlpNzB3aTVxeWVkam5kNzdvb21sZTI3N3liMWY0bXVtdDJmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="50" height="50" alt="Tech GIF">
 </p>
 
