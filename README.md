@@ -13,7 +13,7 @@
 
 ### Some Projects ⭐️
 <div style="display: flex;">
-  <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" width="180px" height="180em">
+  <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" width="180em" height="180em">
   <img src="https://personal-portfolio-one-taupe.vercel.app/RunThrough.jpeg" width="180px" height="180em">
   <img src="https://personal-portfolio-one-taupe.vercel.app/gonews.jpeg" width="180px" height="180em">
 </div>
