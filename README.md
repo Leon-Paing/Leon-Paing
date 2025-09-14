@@ -12,11 +12,11 @@
 </p>
 
 ### Some Projects ⭐️
-<div style="display: flex; align: center;">
-  <img src="./AiOcean.gif" width="400px" height="250em">
-  <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" width="400px" height="250em">
-  <img src="https://personal-portfolio-one-taupe.vercel.app/RunThrough.jpeg" width="400px" height="250em">
-  <img src="https://personal-portfolio-one-taupe.vercel.app/gonews.jpeg" width="400px" height="250em">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./AiOcean.gif" width="400px" height="250px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255, 255, 255, 0.5);" />
+  <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" width="400px" height="250px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255, 255, 255, 0.5);" />
+  <img src="https://personal-portfolio-one-taupe.vercel.app/RunThrough.jpeg" width="400px" height="250px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255, 255, 255, 0.5);" />
+  <img src="https://personal-portfolio-one-taupe.vercel.app/gonews.jpeg" width="400px" height="250px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255, 255, 255, 0.5);" />
 </div>
 
 <p align="start">
