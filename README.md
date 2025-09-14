@@ -13,7 +13,7 @@
 
 ## Some Projects ⭐️
 
-<div style="text-align: center; width: 100%;">
+<div style="text-align: center; width: 100%; justify-content: center; align-items: center;">
 
   <h5 style="text-align: center; width: 100%;">✈️ Real-time drone monitoring & Live video stream 🎥</h5>
   <img src="./AiOcean.gif" alt="Drone Monitoring" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);">
