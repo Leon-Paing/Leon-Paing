@@ -12,14 +12,12 @@
 </p>
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Leon-Paing&show_icons=true&theme=radical" height="180em" />
 
   <!-- Top Languages (Pie Chart) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-Paing&layout=pie&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-Paing&layout=pie&theme=tokyonight" height="180em" />
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Leon-Paing&theme=radical&hide_border=false" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=Leon-Paing&theme=tokyonight&hide_border=false" height="180em" />
 </div>
 
 <p align="start">
