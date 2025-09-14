@@ -11,12 +11,13 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRmbjB2cTN5enZ3dm5jZDdiZTl3OGhtNDVsY2V0d3VxMGQ2cGd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50" height="50" alt="Python GIF">
 </p>
 
+## My Contributions
 <p align="start">
   <img src="https://raw.githubusercontent.com/Leon-Paing/Leon-Paing/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light">
   <img src="https://raw.githubusercontent.com/Leon-Paing/Leon-Paing/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark">
 </p>
 
-## Some Projects ⭐️
+## Some Project(s) ⭐️
 
 <div style="text-align: center; width: 100%; justify-content: center; align-items: center;">
 
@@ -25,11 +26,6 @@
     <img src="./AiOcean.gif" alt="Drone Monitoring">
     <img src="./DroneMap.gif" alt="Drone on Map">
   </div><br>
-
-  <h4 style="text-align: center; width: 100%;">🚘 Car Showroom</h4>
-  <div style="display: flex; align: center">
-    <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" alt="Endura Drive">
-  </div>
 
 </div>
 
