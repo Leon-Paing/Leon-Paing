@@ -12,11 +12,11 @@
 </p>
 
 <div align="center">
-  <h1>🔥 Here is my GitHub Streak 🔥</h1>
+  <h3 style="color: red;">🔥 Here is my GitHub Streak 🔥</h3>
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 60px; flex-wrap: wrap; width: 100%;">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NkaWYxYjFpYTJkZ3NyZHkyb3E5b29kcmRjZHhzaXdmazdoOGJ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" height="180em" width="180px"/>
-    <img src="https://streak-stats.demolab.com?user=Leon-Paing&theme=tokyonight&hide_border=false" height="180em"/>
+    <img src="https://streak-stats.demolab.com?user=Leon-Paing&theme=tokyonight&hide_border=true" height="180em"/>
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NkaWYxYjFpYTJkZ3NyZHkyb3E5b29kcmRjZHhzaXdmazdoOGJ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" height="180em" width="180px"/>
   </div>
 </div>
