@@ -12,16 +12,16 @@
 </p>
 
 ## Some Projects ⭐️
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-  <div style="flex: 1 1 45%; text-align: center;">
+  <div style="width: 48%; text-align: center;">
     <h5>✈️ Real-time drone monitoring & Live video stream 🎥</h5>
-    <img src="./AiOcean.gif" style="width: 100%; max-width: 400px; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
+    <img src="./AiOcean.gif" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
   </div>
 
-  <div style="flex: 1 1 45%; text-align: center;">
+  <div style="width: 48%; text-align: center;">
     <h5>🚘 Car Showroom</h5>
-    <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" style="width: 100%; max-width: 400px; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
+    <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
   </div>
 
 </div>
