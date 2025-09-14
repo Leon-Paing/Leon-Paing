@@ -11,9 +11,15 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRmbjB2cTN5enZ3dm5jZDdiZTl3OGhtNDVsY2V0d3VxMGQ2cGd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50" height="50" alt="Python GIF">
 </p>
 
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leon-Paing&show_icons=true&theme=dracula" height="180em" margin-right="20px" />
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Leon-Paing&show_icons=true&theme=radical" height="180em" />
+
+  <!-- Top Languages (Pie Chart) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-Paing&layout=pie&theme=radical" height="180em" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Leon-Paing&theme=radical&hide_border=false" height="180em" />
 </div>
 
 <p align="start">
