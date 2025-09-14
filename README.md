@@ -12,9 +12,18 @@
 </p>
 
 ### Some Projects ⭐️
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="./AiOcean.gif" width="400px" height="250px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255, 255, 255, 0.5);" />
-  <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" width="400px" height="250px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255, 255, 255, 0.5);" />
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: center;">
+
+  <div>
+    <h3>Real-time drone monitoring & Live video stream</h3>
+    <img src="./AiOcean.gif" width="400px" height="250px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
+  </div>
+
+  <div>
+    <h3>Car Showroom</h3>
+    <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" width="400px" height="250px" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
+  </div>
+
 </div>
 
 <p align="start">
