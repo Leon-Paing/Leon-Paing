@@ -18,8 +18,8 @@
   <div style="flex: 1 1 40%; text-align: center; min-width: 0;">
     <h5>✈️ Real-time drone monitoring & Live video stream 🎥</h5>
     <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-      <img src="./AiOcean.gif" alt="Drone Monitoring" style="width: 50%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);">
-      <img src="./AiOcean.gif" alt="Drone Monitoring" style="width: 50%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);">
+      <img src="./AiOcean.gif" alt="Drone Monitoring" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);">
+      <img src="./AiOcean.gif" alt="Drone Monitoring" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);">
     </div>
     
   </div>
