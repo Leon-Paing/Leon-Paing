@@ -19,6 +19,11 @@
   <div style="display: flex; align: center">
     <img src="./AiOcean.gif" alt="Drone Monitoring">
     <img src="./DroneMap.gif" alt="Drone on Map">
+  </div><br>
+
+  <h4 style="text-align: center; width: 100%;">🚘 Car Showroom</h4>
+  <div style="display: flex; align: center">
+    <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" alt="Endura Drive">
   </div>
 
 </div>
