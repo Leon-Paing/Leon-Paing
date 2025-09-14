@@ -22,7 +22,7 @@
 
   <div style="width: 45%; text-align: center;">
     <h5>🚘 Car Showroom</h5>
-    <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" alt="Car Showroom" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
+    <img src="https://personal-portfolio-one-taupe.vercel.app/Endura.jpeg" alt="Car Showroom" style="width: 45%; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);" />
   </div>
 
 </div>
