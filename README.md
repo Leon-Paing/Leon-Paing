@@ -16,7 +16,10 @@
 <div style="text-align: center; width: 100%; justify-content: center; align-items: center;">
 
   <h4 style="text-align: center; width: 100%;">✈️ Real-time drone monitoring & Live video stream 🎥</h4>
-  <img src="./AiOcean.gif" alt="Drone Monitoring" style=" border-radius: 15px; box-shadow: 0 4px 15px rgba(255,255,255,0.5);">
+  <div style="display: flex;">
+    <img src="./AiOcean.gif" alt="Drone Monitoring">
+    <img src="./AiOcean.gif" alt="Drone Monitoring">
+  </div>
 
 </div>
 
