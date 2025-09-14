@@ -12,8 +12,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leon-Paing&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-Paing&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leon-Paing&show_icons=true&theme=gruvbox" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-Paing&layout=pie&theme=radical" height="180em" />
 </div>
 
 <p align="start">
