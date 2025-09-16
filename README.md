@@ -19,6 +19,12 @@
   <img src="https://raw.githubusercontent.com/Leon-Paing/Leon-Paing/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark">
 </p>
 
+### 📊 Contribution Level:
+<a href="https://github.com/Leon-Paing">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leon-Paing&theme=radical" />
+</a>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-paing-phyoe-9a48aa321/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanpaingwork.profession@gmail.com)
 
