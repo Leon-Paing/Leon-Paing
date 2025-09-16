@@ -1,4 +1,4 @@
-## Hi! It's me, Yan Pai aka Leon! 🦁
+## Hi! It's me, Leon! 🦁
 
 <p>
   A passionate Developer who focuses on real-time, high-performance, cloud-based solutions.
