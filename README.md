@@ -19,7 +19,6 @@
   <img src="https://raw.githubusercontent.com/Leon-Paing/Leon-Paing/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark">
 </p>
 
-### 📊 Contribution Level:
 <a href="https://github.com/Leon-Paing">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leon-Paing&theme=radical" />
 </a>
