@@ -5,7 +5,7 @@
 </p>
 
 <blockquote>
-Learn
+// Learn
 </blockquote>
 
 ### Tech Stack ✨
