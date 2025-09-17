@@ -4,9 +4,7 @@
   A passionate Developer who focuses on real-time, high-performance, cloud-based solutions.
 </p>
 
-<blockquote>
-// Learn
-</blockquote>
+> ***🌻 A passionate Developer who focuses on real-time high-performance cloud-based solutions.***
 
 ### Tech Stack ✨
 
