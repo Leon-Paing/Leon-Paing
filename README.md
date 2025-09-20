@@ -39,4 +39,9 @@
     <img src="./DroneMap.gif" alt="Drone on Map">
   </div><br>
 
+  <h4 style="text-align: center; width: 100%;">✈️ Flight Management Dashboard UI</h4>
+  <div style="display: flex; align: center">
+    <img src="./B5341042-B1B5-4B51-AF22-68403E9A3A0D_1_201_a.jpeg" alt="Dashboard UI">
+  </div><br>
+
 </div>
