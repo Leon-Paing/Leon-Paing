@@ -29,19 +29,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-paing-phyoe-9a48aa321/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanpaingwork.profession@gmail.com)
 
-## Some Project(s) ⭐️
-
-<div style="text-align: center; width: 100%; justify-content: center; align-items: center;">
-
-  <h4 style="text-align: center; width: 100%;">✈️ Real-time flight monitoring & Live video stream 🎥</h4>
-  <div style="display: flex; align: center">
-    <img src="./AiOcean.gif" alt="Drone Monitoring">
-    <img src="./DroneMap.gif" alt="Drone on Map">
-  </div><br>
-
-  <h4 style="text-align: center; width: 100%;">✈️ Flight Management Dashboard UI</h4>
-  <div style="display: flex; align: center">
-    <img src="./B5341042-B1B5-4B51-AF22-68403E9A3A0D_1_201_a.jpeg" alt="Dashboard UI">
-  </div><br>
-
-</div>
